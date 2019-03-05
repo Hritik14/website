@@ -58,7 +58,7 @@ Install [Termux](https://termux.com/).
 In Termux, type:
 ```
 pkg install root-repo
-pkg install golang git libpcap-dev libusb-dev
+pkg install golang git libpcap-dev
 go get -u github.com/bettercap/bettercap
 ```
 and wait.    
